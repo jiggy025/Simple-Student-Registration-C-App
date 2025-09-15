@@ -18,7 +18,7 @@ A simple **C# Windows Forms** application to register students and display them 
 
 ## Screenshots
 
-![Form Layout](https://ibb.co/bgZdJdqR)
+https://ibb.co/bgZdJdqR
 
 ---
 
