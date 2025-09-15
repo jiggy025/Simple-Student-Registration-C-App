@@ -28,7 +28,7 @@ https://ibb.co/bgZdJdqR
 
 ```bash
 git clone https://github.com/YourUsername/StudentRegistrationApp.git
-
+```
 2. Open the solution file (.sln) in Visual Studio.
 
 3. Build and run the project (press F5 or click Start).
